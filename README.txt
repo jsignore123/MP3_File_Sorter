@@ -3,11 +3,9 @@ README
 
 Description: 
 -------------------
-Hey big papa :D! Here's everything you need to know about how to run this program. This'll sort all your MP3 files into their respective band and album folders. It also prints the song/album/band for each MP3 incase you wanna check that my program sorted the MP3s correctly. I love you!! You owe me $100 for this! Don't forget... 
+This program will sort all your MP3 song files into their respective band and album folders. It also prints the song/album/band for each MP3 file to the terminal.
 
-Love you - Jess Signore
-
-library used if .jar doesn't work: https://github.com/mpatric/mp3agic
+library used if .jar file doesn't work: https://github.com/mpatric/mp3agic
 
 Instructions:
 -------------------
